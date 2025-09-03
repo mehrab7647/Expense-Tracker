@@ -1,0 +1,25 @@
+2025-09-02 22:30:38,157 - expense_tracker.controllers.app_controller - INFO - All services initialized successfully
+2025-09-02 22:30:38,157 - expense_tracker.controllers.app_controller - INFO - Application controller initialized
+2025-09-02 22:30:43,658 - expense_tracker.controllers.app_controller - INFO - All services initialized successfully
+2025-09-02 22:30:43,659 - expense_tracker.controllers.app_controller - INFO - Application controller initialized
+2025-09-02 22:30:43,659 - expense_tracker.controllers.app_controller - INFO - Validating data integrity
+2025-09-02 22:30:43,659 - expense_tracker.controllers.app_controller - INFO - Data validation complete. Valid: True
+2025-09-02 22:33:40,559 - expense_tracker.controllers.app_controller - INFO - All services initialized successfully
+2025-09-02 22:33:40,560 - expense_tracker.controllers.app_controller - INFO - Application controller initialized
+2025-09-02 22:33:40,560 - expense_tracker.controllers.app_controller - INFO - Starting GUI interface
+2025-09-02 22:35:56,245 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:35:56,246 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:35:56,246 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,169 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,169 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,170 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,170 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,170 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:36:00,170 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-02 22:37:07,956 - expense_tracker.controllers.app_controller - INFO - Shutting down application
+2025-09-02 22:37:07,969 - expense_tracker.controllers.app_controller - INFO - Application shutdown complete
+2025-09-02 22:37:14,042 - expense_tracker.controllers.app_controller - INFO - All services initialized successfully
+2025-09-02 22:37:14,042 - expense_tracker.controllers.app_controller - INFO - Application controller initialized
+2025-09-02 22:37:14,042 - expense_tracker.controllers.app_controller - INFO - Starting GUI interface
+2025-09-02 22:37:41,555 - expense_tracker.controllers.app_controller - INFO - Shutting down application
+2025-09-02 22:37:41,558 - expense_tracker.controllers.app_controller - INFO - Application shutdown complete

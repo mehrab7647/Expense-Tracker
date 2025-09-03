@@ -1,0 +1,6 @@
+# Core dependencies for Expense Tracker
+matplotlib>=3.7.0
+openpyxl>=3.1.0  # For Excel export functionality
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For testing (can use built-in unittest instead)

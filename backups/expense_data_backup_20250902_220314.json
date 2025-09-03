@@ -1,0 +1,65 @@
+{
+  "transactions": [],
+  "categories": [
+    {
+      "name": "Salary",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Freelance",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Investment",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Other Income",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Food",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Transportation",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Entertainment",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Utilities",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Healthcare",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Shopping",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Other Expense",
+      "category_type": "EXPENSE",
+      "is_default": true
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2025-09-02T22:03:14.590351",
+    "last_modified": "2025-09-02T22:03:14.590477"
+  }
+}

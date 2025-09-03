@@ -1,0 +1,102 @@
+{
+  "transactions": [
+    {
+      "id": "bf105735-6b6a-4b77-886e-c665345252cd",
+      "amount": "3000",
+      "description": "Income",
+      "category": "Salary",
+      "date": "2025-09-02T00:00:00",
+      "transaction_type": "INCOME",
+      "created_at": "2025-09-02T22:34:27.514248"
+    },
+    {
+      "id": "712c802f-c4c1-41aa-a13d-6248adab1e15",
+      "amount": "1200",
+      "description": "Rent",
+      "category": "Other Expense",
+      "date": "2025-09-02T00:00:00",
+      "transaction_type": "EXPENSE",
+      "created_at": "2025-09-02T22:34:58.346848"
+    },
+    {
+      "id": "6d94427e-d10b-4a5e-b317-26f1bd4c97df",
+      "amount": "300",
+      "description": "Groceries",
+      "category": "Food",
+      "date": "2025-09-02T00:00:00",
+      "transaction_type": "EXPENSE",
+      "created_at": "2025-09-02T22:35:13.420046"
+    },
+    {
+      "id": "8f42100c-868f-4be5-8ea3-b557b16887da",
+      "amount": "100",
+      "description": "Utilities",
+      "category": "Utilities",
+      "date": "2025-09-02T00:00:00",
+      "transaction_type": "EXPENSE",
+      "created_at": "2025-09-02T22:35:25.331735"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Salary",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Freelance",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Investment",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Other Income",
+      "category_type": "INCOME",
+      "is_default": true
+    },
+    {
+      "name": "Food",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Transportation",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Entertainment",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Utilities",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Healthcare",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Shopping",
+      "category_type": "EXPENSE",
+      "is_default": true
+    },
+    {
+      "name": "Other Expense",
+      "category_type": "EXPENSE",
+      "is_default": true
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2025-09-02T22:30:38.156717",
+    "last_modified": "2025-09-02T22:37:14.041842"
+  }
+}

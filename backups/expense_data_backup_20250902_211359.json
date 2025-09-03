@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "id": "46b6a62e-689d-4393-a427-c05bc71e3b0d",
+      "amount": "100.50",
+      "description": "Test transaction",
+      "category": "Food",
+      "date": "2025-09-02T21:13:59.975860",
+      "transaction_type": "EXPENSE",
+      "created_at": "2025-09-02T21:13:59.975862"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Test Category",
+      "category_type": "EXPENSE",
+      "is_default": false
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2025-09-02T21:13:59.975679",
+    "last_modified": "2025-09-02T21:13:59.976180"
+  }
+}
